@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MenuMakanan</string>
+
+    <string-array name="makanan">
+        <item>Nasi Goreng </item>
+        <item>Sup Sayur</item>
+        <item>Sayur Bayam</item>
+        <item>Ayam Betutu</item>
+        <item>Ayam Taliwang</item>
+        <item>Mie Aceh</item>
+        <item>Bika Ambon</item>
+        <item>Rendang</item>
+        <item></item>
+    </string-array>
+
+
+</resources>
