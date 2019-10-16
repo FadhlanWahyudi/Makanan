@@ -19,6 +19,8 @@ public class Deskripsi extends AppCompatActivity {
         web = findViewById(R.id.web);
         gambar = findViewById(R.id.gambar);
         Intent deskripsi = getIntent();
+                getSupportActionBar().setDisplayShowHomeEnabled(true);
+
         deskripsi.getIntExtra("posisi",0);
         String link = deskripsi.getStringExtra("link");
 
